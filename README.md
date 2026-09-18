@@ -1,5 +1,5 @@
 
-# Hi there, I'm Samuel Prasanth 👋
+# Hi there, I'm Kantubukta Samuel Prasanth 👋
 
 ### VLSI Design & Verification Engineer | RTL Design | SystemVerilog | UVM
 
