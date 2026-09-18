@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Samuel Prasanth**, an Electrical & Electronics Engineering professional passionate about VLSI Design, RTL Development, and Functional Verification.
+I'm **Kantubukta Samuel Prasanth**, an Electrical & Electronics Engineering professional passionate about VLSI Design, RTL Development, and Functional Verification.
 
 Currently undergoing professional training in **VLSI Design & Verification at Maven Silicon, Bengaluru**.
 
